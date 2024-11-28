@@ -1,4 +1,0 @@
-Erro ao mapear o compartilhamento de rede no computador remoto! 
-Verifique as credenciais e permissões. 
-Erro ao mapear o compartilhamento de rede no computador remoto! 
-Verifique as credenciais e permissões. 
